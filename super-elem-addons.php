@@ -15,7 +15,7 @@ Domain path: /languages/
 
 if(!defined('ABSPATH'))
 {
-  die('Die Monster!You dont belong here');
+  die();
 }
 
 /* DEFINE GLOBAL CONSTANTS */
